@@ -4,6 +4,14 @@
     <file original="" product-name="Jonnitto.PrettyEmbedHelper" source-language="en" target-language="da" datatype="plaintext">
         <body>
             <trans-unit id="properties.preserveAspectRatio" xml:space="preserve">
+                <source>Aspect ratio of the thumbnail</source>
+                <target>Billedformat af miniaturebilledet</target>
+            </trans-unit>
+            <trans-unit id="properties.preserveAspectRatio.selectBoxEditor.placeholder" xml:space="preserve">
+                <source>Just like the video</source>
+                <target>Ligesom videoen</target>
+            </trans-unit>
+            <trans-unit id="properties.preserveAspectRatio.selectBoxEditor.values.fromImage" xml:space="preserve">
                 <source>Preserve aspect ratio from the picture</source>
                 <target>Behold billedets billedformat</target>
             </trans-unit>
